@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170170471652",
+    "project_id": "notifychat-d370f",
+    "storage_bucket": "notifychat-d370f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170170471652:android:211154ddce66399c1e08f1",
+        "android_client_info": {
+          "package_name": "com.example.notifychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170170471652-r8ms66jhl15p3miog26etrbnbpnsgd73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9JM2dad04olQT71OjawH80DJp9qIJR_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170170471652-r8ms66jhl15p3miog26etrbnbpnsgd73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
